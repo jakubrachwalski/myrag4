@@ -45,7 +45,7 @@
     "@llamaindex/env": "~0.1.30",
     "@llamaindex/openai": "~0.4.0",
     "@llamaindex/readers": "~3.1.4",
-    "@llamaindex/server": "~0.1.2"
+    "@llamaindex/server": "~0.1.2",
     "@llamaindex/tools": "~0.1.2",
     "@llamaindex/workflow": "~1.1.8",
     "@radix-ui/react-accordion": "^1.2.3",
